@@ -135,6 +135,7 @@
     "ldapts": "4.2.6",
     "lodash": "catalog:",
     "luxon": "catalog:",
+    "mammoth": "^1.6.0",
     "mysql2": "3.11.0",
     "n8n-core": "workspace:*",
     "n8n-editor-ui": "workspace:*",
