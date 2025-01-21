@@ -904,6 +904,9 @@ importers:
       luxon:
         specifier: 'catalog:'
         version: 3.4.4
+      mammoth:
+        specifier: ^1.6.0
+        version: 1.7.2
       mysql2:
         specifier: 3.11.0
         version: 3.11.0
@@ -1743,6 +1746,9 @@ importers:
       mailparser:
         specifier: 3.6.7
         version: 3.6.7
+      mammoth:
+        specifier: ^1.6.0
+        version: 1.7.2
       minifaker:
         specifier: 1.34.1
         version: 1.34.1
@@ -12981,6 +12987,9 @@ packages:
   vue-component-type-helpers@2.1.10:
     resolution: {integrity: sha512-lfgdSLQKrUmADiSV6PbBvYgQ33KF3Ztv6gP85MfGaGaSGMTXORVaHT1EHfsqCgzRNBstPKYDmvAV9Do5CmJ07A==}
 
+  vue-component-type-helpers@2.2.0:
+    resolution: {integrity: sha512-cYrAnv2me7bPDcg9kIcGwjJiSB6Qyi08+jLDo9yuvoFQjzHiPTzML7RnkJB1+3P6KMsX/KbCD4QE3Tv/knEllw==}
+
   vue-demi@0.14.10:
     resolution: {integrity: sha512-nMZBOwuzabUO0nLgIcc6rycZEebF6eeUfaiQx9+WSk8e29IbLvPU9feI6tqW4kTo3hvoYAJkMh8n8D0fuISphg==}
     engines: {node: '>=12'}
@@ -18009,7 +18018,7 @@ snapshots:
       ts-dedent: 2.2.0
       type-fest: 2.19.0
       vue: 3.5.13(typescript@5.7.2)
-      vue-component-type-helpers: 2.1.10
+      vue-component-type-helpers: 2.2.0
 
   '@supabase/auth-js@2.65.0':
     dependencies:
@@ -19600,7 +19609,7 @@ snapshots:
       '@types/readable-stream': 4.0.10
       buffer: 6.0.3
       inherits: 2.0.4
-      readable-stream: 4.4.2
+      readable-stream: 4.5.2
 
   blob-util@2.0.2: {}
 
@@ -27321,6 +27330,8 @@ snapshots:
       typescript: 5.7.2
 
   vue-component-type-helpers@2.1.10: {}
+
+  vue-component-type-helpers@2.2.0: {}
 
   vue-demi@0.14.10(vue@3.5.13(typescript@5.7.2)):
     dependencies:
