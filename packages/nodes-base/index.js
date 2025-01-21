@@ -1,0 +1,1 @@
+module.exports.DocxExtract = require('./dist/nodes/DocxExtract/DocxExtract.node').DocxExtract;

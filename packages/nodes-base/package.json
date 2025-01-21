@@ -817,7 +817,8 @@
       "dist/nodes/Transform/RemoveDuplicates/RemoveDuplicates.node.js",
       "dist/nodes/Transform/SplitOut/SplitOut.node.js",
       "dist/nodes/Transform/Sort/Sort.node.js",
-      "dist/nodes/Transform/Summarize/Summarize.node.js"
+      "dist/nodes/Transform/Summarize/Summarize.node.js",
+      "dist/nodes/DocxExtract/DocxExtract.node.js"
     ]
   },
   "devDependencies": {
@@ -887,6 +888,7 @@
     "mqtt": "5.7.2",
     "mssql": "10.0.2",
     "mysql2": "3.11.0",
+    "mammoth": "^1.6.0",
     "n8n-workflow": "workspace:*",
     "node-html-markdown": "1.2.0",
     "node-ssh": "13.2.0",
